@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: rgb(204, 204, 204);
+}
+
 .container {
   padding-top: 5%;
   max-width: 60%;
@@ -65,5 +69,3 @@
 
   transform: rotate(-15deg);
 }
-
-
