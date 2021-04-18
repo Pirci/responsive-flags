@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding-top: 5%;
+  max-width: 60%;
+}
+
+.aspect-ratio-box {
+  height: 0;
+  overflow: hidden;
+  padding-top: calc(2 / 3 * 100%);
+  background: red;
+  position: relative;
+}
+
+.aspect-ratio-box-inside {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.moon {
+  width: 33.33%;
+  height: 50%;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+}
+
+.moon:before {
+  content: "";
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  right: -2%;
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  background: red;
+}
+
+.star-five {
+  background: white;
+  width: 14%;
+  height: 19%;
+  clip-path: polygon(
+    50% 0%,
+    61% 35%,
+    98% 35%,
+    68% 57%,
+    79% 91%,
+    50% 70%,
+    21% 91%,
+    32% 57%,
+    2% 35%,
+    39% 35%
+  );
+
+  transform: rotate(-15deg);
+}
+
+
