@@ -18,4 +18,5 @@ https://pirci.github.io/responsive_flags/nl_flag/index.html
 Please click on the link below to view it.
 https://pirci.github.io/responsive_flags/tr_flag/index.html
 
-![tr_flag](https://user-images.githubusercontent.com/43238947/115158861-97f3bc80-a090-11eb-8524-f8113f3e6cb6.png)
+![dutch_flag](https://user-images.githubusercontent.com/43238947/115749106-0ee1cb80-a397-11eb-8320-faf794832e5e.png)
+
