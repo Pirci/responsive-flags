@@ -7,8 +7,9 @@ body {
 }
 
 .container {
-  padding-top: 5%;
-  max-width: 60%;
+  margin: 0 auto;
+  padding-top: 3%;
+  max-width: 90%;
 }
 
 .aspect-ratio-box {
