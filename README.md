@@ -29,6 +29,7 @@ Preview:  https://pirci.github.io/responsive-flags/nl_flag/index.html
 - More code comments can be added
 - Formatting could be improved when viewing on certain devices/browsers
 
+> Any type of suggestions/improvements to this repo are always welcome.
 
 
 
